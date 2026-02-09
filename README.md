@@ -61,9 +61,10 @@ git clone https://github.com/SparshKesari/testmu-skills.git .agent/skills/testmu
 Then just ask your AI assistant naturally:
 
 ```
-"Write Playwright tests for the login page with cloud execution on LambdaTest"
-"Create a k6 load test for the checkout API with 500 concurrent users"
-"Set up Cypress component tests for the React dashboard"
+"Write Playwright tests for the login page and run them on TestMu AI cloud (Chrome + Firefox)"
+"Set up Cypress component tests for the React dashboard and upload screenshots on failure"
+"Create JUnit 5 tests for the payments service with Mockito and GitHub Actions CI"
+"Run Playwright tests locally against http://localhost:3000 with trace and video enabled"
 ```
 
 ---
