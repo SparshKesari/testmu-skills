@@ -192,6 +192,10 @@ Skills that support browser/device testing include **TestMu AI  cloud integratio
 Make sure you have your TestMu AI credentials with you to run test automation scripts on TestMu AI Selenium Grid. You can obtain these credentials from the [TestMu AI Automation Dashboard](https://automation.lambdatest.com/) or through [TestMu AI Profile](https://accounts.lambdatest.com/security).
 
 Set TestMu AI `USERNAME` and `ACCESS_KEY` in environment variables.
+- Copy `.env.example` to `.env` and fill in your credentials.
+
+
+or add credentials directly from your terminal:
 
 **For Linux/macOS:**
 ```bash
