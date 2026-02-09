@@ -284,7 +284,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## Credits
 
 
-- **[TestMu AI ](https://www.lambdatest.com)** — Cloud testing platform and TestMu AI
+- **[TestMu AI ](https://www.lambdatest.com)** — Power Your Software Testing with  AI Agents and Cloud
 - **[Anthropic](https://anthropic.com)** — Agent Skills standard and Claude Code
 - **[Agent Skills Standard](https://agentskills.io)** — Open standard for portable AI skills
 
